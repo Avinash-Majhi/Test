@@ -10,3 +10,10 @@
 - ***Hibernate***
 - 'Lombok'
 
+``` java
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
